@@ -68,6 +68,6 @@ numpy
 
 ## 🌐 **GitHub**
 
-Check out the project repository on GitHub: [https://github.com/snehuuu28](https://github.com/snehuuu28)
+Check out the project repository on GitHub: [https://github.com/snehuuu28](https://github.com/snehal-gawade28)
 
 ---
