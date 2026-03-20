@@ -66,8 +66,7 @@ numpy
 
 ---
 
-## 🌐 **GitHub**
+## 🌐 GitHub
 
-Check out the project repository on GitHub: [https://github.com/snehuuu28](https://github.com/snehal-gawade28)
-
----
+Explore my projects and contributions on GitHub:  
+🔗 [Snehal Gawade – GitHub](https://github.com/snehal-gawade28)
